@@ -1,4 +1,4 @@
-package com.lostbearlabs.aoc.y2020
+package com.lostbearlabs.aoc.y2020.d1
 
 fun findPairProduct(tgt: Long, lst: List<Long>) : Long? {
     val values = lst.toSet()

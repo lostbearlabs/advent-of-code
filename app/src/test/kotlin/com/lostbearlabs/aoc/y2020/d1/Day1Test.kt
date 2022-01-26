@@ -1,4 +1,4 @@
-package com.lostbearlabs.aoc.y2020
+package com.lostbearlabs.aoc.y2020.d1
 
 import com.lostbearlabs.aoc.util.readList
 import org.assertj.core.api.Assertions.assertThat
